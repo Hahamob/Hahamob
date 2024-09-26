@@ -7,6 +7,8 @@
 📫 How to reach me: ll1335329167@gmail.com
 
 🔍 Actively seeking opportunities in data analysis, machine learning, and software engineering.
+
+about me
 ---
 🚀 Why I chose this career: My journey into the tech world started during my freshman year internship when I completed a game based on Roblox. This was a significant moment for me because it fulfilled a childhood dream of creating my own game. That experience not only sparked my passion for technology but also showed me the creative and problem-solving possibilities that programming offers. From there, I continued to dive deeper into coding, data analysis, and machine learning, which led me to pursue a Master of Information Technology at the University of Auckland. This has been the perfect path to combine my love for technology and my desire to create impactful solutions.
 
