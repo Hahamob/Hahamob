@@ -1,13 +1,16 @@
 ## Hi there 👋 I am Lynn
 
-🔭 I’m currently studying on University of Auckland
-🌱 I’m currently learning Master of Information technology.
+🎓 I’m currently pursuing a Master of Information Technology at the University of Auckland.
+
+🌱 I’m focusing on data analysis, machine learning, and software engineering, with hands-on experience in full-stack development and AI/ML projects.
+
 📫 How to reach me: ll1335329167@gmail.com
-😄 seeking job: data analyst | machine learnning | software engineering
 
--🚀 Why I chose this career: My journey into the tech world started during my freshman year internship when I completed a game based on Roblox. This was a significant moment for me because it fulfilled a childhood dream of creating my own game. That experience not only sparked my passion for technology but also showed me the creative and problem-solving possibilities that programming offers. From there, I continued to dive deeper into coding, data analysis, and machine learning, which led me to pursue a Master of Information Technology at the University of Auckland. This has been the perfect path to combine my love for technology and my desire to create impactful solutions.
+🔍 Actively seeking opportunities in data analysis, machine learning, and software engineering.
+---
+🚀 Why I chose this career: My journey into the tech world started during my freshman year internship when I completed a game based on Roblox. This was a significant moment for me because it fulfilled a childhood dream of creating my own game. That experience not only sparked my passion for technology but also showed me the creative and problem-solving possibilities that programming offers. From there, I continued to dive deeper into coding, data analysis, and machine learning, which led me to pursue a Master of Information Technology at the University of Auckland. This has been the perfect path to combine my love for technology and my desire to create impactful solutions.
 
--🐦 Apart from work and studying things I love: When I’m not working on a project or diving into data, I love relaxing with RPG games like Stardew Valley or mobile single-player games like Rusty Lake. These games offer a fun way to unwind while still engaging my problem-solving skills. On weekends, I enjoy going hiking with friends, exploring new trails, and taking in the beauty of nature. It’s a great way to recharge and find balance outside of my tech world.
+🐦 Apart from work and studying things I love: When I’m not working on a project or diving into data, I love relaxing with RPG games like Stardew Valley or mobile single-player games like Rusty Lake. These games offer a fun way to unwind while still engaging my problem-solving skills. On weekends, I enjoy going hiking with friends, exploring new trails, and taking in the beauty of nature. It’s a great way to recharge and find balance outside of my tech world.
 
 
 ## 📊 Data Analysis Skills 📊
